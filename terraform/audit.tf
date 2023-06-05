@@ -1,4 +1,4 @@
-module "dtpl-core-customer-profile-dev" {
+module "audit" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
