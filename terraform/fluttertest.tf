@@ -4,7 +4,7 @@ module "fluttertest" {
   control_tower_parameters = {
     AccountEmail              = "shahpay+fluttertest@amazon.co.uk"
     AccountName               = "FlutterTest"
-    ManagedOrganizationalUnit = "Security"
+    ManagedOrganizationalUnit = "deployments"
     SSOUserEmail              = "shahpay+fluttertest@amazon.co.uk"
     SSOUserFirstName          = "FlutterTest"
     SSOUserLastName           = "Shah"
