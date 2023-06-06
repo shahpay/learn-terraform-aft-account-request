@@ -1,9 +1,9 @@
-module "fluttertest" {
+module "fluttertest1" {
   source = "./modules/aft-account-request"
 
   control_tower_parameters = {
     AccountEmail              = "shahpay+fluttertest1@amazon.co.uk"
-    AccountName               = "FlutterTest"
+    AccountName               = "FlutterTest1"
     ManagedOrganizationalUnit = "deployments"
     SSOUserEmail              = "shahpay+fluttertest1@amazon.co.uk"
     SSOUserFirstName          = "FlutterTest1"
