@@ -6,7 +6,7 @@ module "fluttertest" {
     AccountName               = "FlutterTest"
     ManagedOrganizationalUnit = "deployments"
     SSOUserEmail              = "shahpay+fluttertest1@amazon.co.uk"
-    SSOUserFirstName          = "FlutterTest"
+    SSOUserFirstName          = "FlutterTest1"
     SSOUserLastName           = "Shah"
   }
 
