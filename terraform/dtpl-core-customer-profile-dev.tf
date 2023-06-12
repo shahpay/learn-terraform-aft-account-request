@@ -4,7 +4,7 @@ module "dtpl-core-customer-profile-dev" {
   control_tower_parameters = {
     AccountEmail              = "shahpay+dtpl@amazon.com"
     AccountName               = "dtpl-core-customer-profile-dev"
-    ManagedOrganizationalUnit = "Sandbox"
+    ManagedOrganizationalUnit = "deployments"
     SSOUserEmail              = "shahpay+dtpl@amazon.com"
     SSOUserFirstName          = "DTPL"
     SSOUserLastName           = "Shah"
