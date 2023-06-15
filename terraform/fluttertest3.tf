@@ -41,5 +41,5 @@ module "fluttertest3" {
     group2 = "testgroup2"
   }
 
-#   account_customizations_name = "dtpl-dev"
+  account_customizations_name = "dtpl-dev"
 }
