@@ -40,6 +40,7 @@ module "dtpl-core-customer-profile-dev" {
     group1 = "testgroup1"
     group2 = "testgroup2"
     environment = "prod"
+    type = "Core"
   }
 
   account_customizations_name = "dtpl-dev"
