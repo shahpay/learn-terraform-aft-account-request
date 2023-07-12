@@ -39,8 +39,8 @@ module "dtpl-core-customer-profile-dev" {
     budget = "600"
     group1 = "testgroup1"
     group2 = "testgroup2"
-    environment = "Prod"
-    type = "Core"
+    # environment = "Prod"
+    # type = "Core"
   }
 
   account_customizations_name = "dtpl-dev"
