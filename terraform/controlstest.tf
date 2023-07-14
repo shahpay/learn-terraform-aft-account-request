@@ -39,7 +39,6 @@ module "controls" {
     budget = "600"
     group1 = "testgroup1"
     group2 = "testgroup2"
-    type = "Core"
   }
 
   account_customizations_name = "dtpl-dev"
